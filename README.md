@@ -27,7 +27,8 @@ relative height in the map. More features planned!
 * Level-of-detail (less points when you zoom out on huge maps)
 
 ## Compiling and running
-Run `make`. An executable will compile. Currently only tested on OS X.
+Run `make`. An executable will compile. Currently only tested on mcOS 
+in which all depenancies should be installed.
 
 Run it with `./fdf [map]`. A bunch of sample maps are provided in the `maps`
 directory. The one in the screenshot above is `maps/42.fdf`.
@@ -35,5 +36,3 @@ directory. The one in the screenshot above is `maps/42.fdf`.
 Controls are: drag with left click to rotate, drag with right to zoom, drag with
 both to move around.
 
-## License
-This project is licensed under the GNU General Public License 3.
