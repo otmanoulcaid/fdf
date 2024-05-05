@@ -3,18 +3,7 @@
 A simple 3D height-map renderer. You can rotate models, color is defined by
 relative height in the map. More features planned!
 
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0<br>
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0<br>
-0  0  1  1  0  0  1  1  0  0  1  1  1  1  1  0  0  0  0<br>
-0  0  1  1  0  0  1  1  0  0  0  0  0  0  0  1  1  0  0<br>
-0  0  1  1  0  0  1  1  0  0  0  0  0  0  0  1  1  0  0<br>
-0  0  1  1  1  1  1  1  0  0  0  0  1  1  1  1  0  0  0<br>
-0  0  0  1  1  1  1  1  0  0  0  1  1  0  0  0  0  0  0<br>
-0  0  0  0  0  0  1  1  0  0  0  1  1  0  0  0  0  0  0<br>
-0  0  0  0  0  0  1  1  0  0  0  1  1  1  1  1  1  0  0<br>
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0<br>
-0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-
+<img width="444" alt="Screen Shot 2024-05-05 at 6 03 35 PM" src="https://github.com/otmanoulcaid/fdf/assets/57399454/5fa25e25-23dc-4280-9bd6-f58fa41dc91a">
 
 <img width="1793" alt="Screen Shot 2024-05-05 at 4 33 50 PM" src="https://github.com/otmanoulcaid/fdf/assets/57399454/d97eed9a-d54c-4464-a474-3aaded05b834">
 
